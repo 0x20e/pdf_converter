@@ -1,3 +1,0 @@
-#coding:gbk
-
-print 'test'
